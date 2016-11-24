@@ -1,0 +1,13 @@
+Package: rpackagemock2
+Type: Package
+Title: Private
+Version: 1.1
+Date: 2016-02-22
+Author: Walid Dif
+Maintainer: Walid Dif <walid.dif@gmail.com>
+Description: Private
+License: GPL-2
+LazyData: TRUE
+RoxygenNote: 5.0.1
+Suggests: testthat, knitr, rmarkdown
+VignetteBuilder: knitr
